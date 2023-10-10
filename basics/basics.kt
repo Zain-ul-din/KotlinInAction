@@ -9,6 +9,10 @@ fun main () {
     var foo = 10 // semi colons are optional
     var bar = 20;
 
+    // immutable variable
+    val immutableVal = "learn kotlin"
+    println(immutableVal)
+
     // boolean conditions
     if(foo > 5 && bar < 10) {
         // do something
@@ -30,13 +34,13 @@ fun main () {
     
     // referential equailty 
     // !referential equailty operator has been deprecated for primitive types
-    if(foo === bar) {
-        println("foo == bar using referential equality")
-    }
-    else {
-        println("foo != bar using referential equality")
-    }
-
+    // if(foo === bar) {
+    //     println("foo == bar using referential equality")
+    // }
+    // else {
+    //     println("foo != bar using referential equality")
+    // }
+        
     /* 
         * kotlin use camelCase for variable, function and package name
         * constant name uses Upper snake case
