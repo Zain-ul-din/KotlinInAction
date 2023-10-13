@@ -45,6 +45,4 @@ fun main ()
     // var student = Student("xyz", 101)
     // println(student)
     
-    // var rand = Random(1,10)
-    // println(rand.getRandom())
 }
