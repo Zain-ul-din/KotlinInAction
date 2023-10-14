@@ -32,6 +32,6 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun HelloWorld () {
     LGUTimetableTheme {
-        Text(text = "hello world")
+        Text(text = "hello world!")
     }
 }
