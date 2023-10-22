@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LemonadeApp</string>
+    <!--  TASKS  -->
+    <string name="task_1">Click to select a lemon!</string>
+    <string name="task_2">Click to juice the lemon!</string>
+    <string name="task_3">Click to drink your lemoned!</string>
+    <string name="task_4">Click to start again!</string>
+</resources>
